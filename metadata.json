@@ -1,0 +1,12 @@
+{
+  "name": "WhatsAPI - WhatsApp SaaS",
+  "description": "Powerful WhatsApp API and Bulk Messaging Platform for Businesses.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "Full-stack SaaS",
+    "WhatsApp API Simulation",
+    "Campaign Management"
+  ]
+}
